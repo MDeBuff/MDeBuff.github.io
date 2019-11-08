@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ccapp/static/css/main.05385729.chunk.css",
+    "main.js": "/ccapp/static/js/main.2326f882.chunk.js",
+    "main.js.map": "/ccapp/static/js/main.2326f882.chunk.js.map",
+    "runtime-main.js": "/ccapp/static/js/runtime-main.1dd474b8.js",
+    "runtime-main.js.map": "/ccapp/static/js/runtime-main.1dd474b8.js.map",
+    "static/js/2.e5b4f29a.chunk.js": "/ccapp/static/js/2.e5b4f29a.chunk.js",
+    "static/js/2.e5b4f29a.chunk.js.map": "/ccapp/static/js/2.e5b4f29a.chunk.js.map",
+    "index.html": "/ccapp/index.html",
+    "precache-manifest.311c967bdd7a2df4b4636cbe037adccd.js": "/ccapp/precache-manifest.311c967bdd7a2df4b4636cbe037adccd.js",
+    "service-worker.js": "/ccapp/service-worker.js",
+    "static/css/main.05385729.chunk.css.map": "/ccapp/static/css/main.05385729.chunk.css.map",
+    "static/media/CCLogo.svg": "/ccapp/static/media/CCLogo.5eb5baa7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dd474b8.js",
+    "static/js/2.e5b4f29a.chunk.js",
+    "static/css/main.05385729.chunk.css",
+    "static/js/main.2326f882.chunk.js"
+  ]
+}
